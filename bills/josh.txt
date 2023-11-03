@@ -1,0 +1,6 @@
+Bill breakdown: 
+cake:                     .... $78 
+yam:                      .... $45 
+pie:                      .... $45 
+tip:                      ...$10 
+total:                    ...$178.00
